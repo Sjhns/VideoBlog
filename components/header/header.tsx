@@ -11,7 +11,7 @@ export const Header = () => {
       <img
         src={urlLogo}
         alt=""
-        className="md:w-[40px] md:h-[40px] sm:w-[30px] sm:h-[30px]"
+        className="md:w-[40px] md:h-[40px] sm:w-[30px] sm:h-[30px] lg:ml-[30px]"
       />
 
       {/* Search box */}
