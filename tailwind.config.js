@@ -9,6 +9,8 @@ module.exports = {
     extend: {
       colors: {
         mainBg: "#040506",
+        searchBar: "#100f14",
+        textColor: "#b1b1b1"
       },
 
       screens: {
