@@ -10,7 +10,9 @@ module.exports = {
       colors: {
         mainBg: "#040506",
         searchBar: "#100f14",
-        textColor: "#b1b1b1"
+        textColor: "#b1b1b1",
+        primary: "#100f14",
+        collectioBg: "rgba(0,0,0,0.4)"
       },
 
       screens: {
@@ -18,8 +20,11 @@ module.exports = {
         md: "768px",
         lg: "1024px",
         xl: "1280px",
+        "2xl": "1536px",
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("tailwind-scrollbar"),
+  ],
 };
