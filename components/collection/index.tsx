@@ -15,7 +15,7 @@ export const Collection = ({ imgSrc }: CollectionProps) => {
       flex items-center px-2
       "
       >
-        <h2 className="text-textColor text-[16px] font-boldk">Nature</h2>
+        <h2 className="text-textColor text-[15px] font-boldk">Playlist</h2>
       </div>
     </div>
   );
