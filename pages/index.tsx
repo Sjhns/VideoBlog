@@ -16,7 +16,7 @@ import { VideoContainer } from "../components/video-container";
 import { RecommendedList } from "../components/recommended-list";
 import { Collection } from "../components/collection";
 import { useEffect, useState } from "react";
-import { data } from "./data";
+import { data } from "../components/data";
 
 const effectScrollBar = () => {
   useEffect(() => {
