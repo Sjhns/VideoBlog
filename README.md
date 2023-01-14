@@ -1,5 +1,7 @@
 # PicturePlay
 
+Se gostou do projeto, não esqueça de dar ⭐ 
+
 ## Deploy
 
 ### <https://picture-play.vercel.app>
