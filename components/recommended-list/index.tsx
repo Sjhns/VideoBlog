@@ -4,7 +4,7 @@ export const RecommendedList = () => {
 
   return (
     <div className="flex items-center mb-2 cursor-pointer px-3 py-2 
-    hover:bg-gray-900 duration-200 ease-in-out hover:scale-110
+    hover:bg-gray-900 duration-200 ease-in-out
     
     ">
       <img
