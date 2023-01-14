@@ -10,7 +10,7 @@ export const VideoContainer = ({ data }: VideoContainerProps) => {
       <video
         src={data.videoSrc}
         controls={true}
-        className="min-w-full min-h-full w-auto h-auto bg-cover"/>
+        className="min-w-full min-h-full w-full h-full bg-cover"/>
 
       <div
         className="absolute top-0 left-0 z-10 w-full h-[60px] py-2 px-3
