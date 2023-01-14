@@ -2,8 +2,8 @@ import { Notifications, Search, Settings } from "@mui/icons-material";
 import { IconButton } from "@mui/material";
 
 export const Header = () => {
-  const urlLogo = "https://firebasestorage.googleapis.com/v0/b/videoblog-8d7a7.appspot.com/o/Images%2Flogo.png?alt=media&token=f8038ccb-49f6-4fad-859c-1b53cae70575";
-  const urlProfilePicture = "https://firebasestorage.googleapis.com/v0/b/videoblog-8d7a7.appspot.com/o/Images%2Fportrait.jpg?alt=media&token=287a4599-200f-4720-94b5-b6a06c72c349";
+  const urlLogo = "https://github.com/Sjhns/library/blob/main/img/girl-tv.png?raw=true";
+  const urlProfilePicture = "https://i.pinimg.com/originals/be/cc/ae/beccae03868f95f2ca90fd3418b19cd4.jpg";
   
     return (
     <div className="flex items-center w-full h-[80px] py-4 md:px-8 sm:px-4">
@@ -11,7 +11,7 @@ export const Header = () => {
       <img
         src={urlLogo}
         alt=""
-        className="md:w-[40px] md:h-[40px] sm:w-[30px] sm:h-[30px] lg:ml-[30px]"
+        className="mt-[7px] md:w-[90px] md:h-[90px] sm:w-[73px] sm:h-[73px] lg:ml-[3px]"
       />
 
       {/* Search box */}
@@ -38,7 +38,7 @@ export const Header = () => {
         </IconButton>
       </div>
 
-      <div className="flex items-center ">
+      <div className="flex items-center">
         <img
           src={urlProfilePicture}
           alt=""
