@@ -2,7 +2,7 @@
 
 ## Deploy
 
-### <https://picture-play.vercel.app>
+### <https://video-blog.vercel.app>
 
 ## Começando
 
