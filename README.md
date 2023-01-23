@@ -11,7 +11,7 @@ Se gostou do projeto, não esqueça de dar ⭐
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/Sjhns/PicturePlay.git
+git clone https://github.com/Sjhns/VideoBlog.git
 
 cd PicturePlay
 ```
