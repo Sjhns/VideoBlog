@@ -1,6 +1,4 @@
-# PicturePlay
-
-Se gostou do projeto, não esqueça de dar ⭐ 
+# Video Blog
 
 ## Deploy
 
